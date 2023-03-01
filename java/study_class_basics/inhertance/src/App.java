@@ -5,6 +5,11 @@ public class App {
         dog dogi=new dog();
         doanimalstuff(dogi , "fast");  
 
+        dog yorkie = new dog("yokrie", 15);
+        doanimalstuff(yorkie, "fast");
+        dog retriver= new dog("labra", 65,"floffy","swimmer");
+        doanimalstuff(retriver, "slow");
+
     }
     public static void doanimalstuff(animal anmal , String speed)
     {
