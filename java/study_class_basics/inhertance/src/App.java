@@ -9,7 +9,8 @@ public class App {
         doanimalstuff(yorkie, "fast");
         dog retriver= new dog("labra", 65,"floffy","swimmer");
         doanimalstuff(retriver, "slow");
-
+        fish goldie =new fish("goldfish","big",0.25,2,3);
+        doanimalstuff(goldie, "fast");
     }
     public static void doanimalstuff(animal anmal , String speed)
     {

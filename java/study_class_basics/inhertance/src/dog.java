@@ -21,14 +21,29 @@ public class dog extends animal{
         return "dog [earShape=" + earShape + ", tailShape=" + tailShape + "]"+ super.toString();
     }
     public void makenoise()
-    {
-
+    {   
+        if(type=="wolf")        //type neeed to be protected type not private
+        {
+            System.out.println("woooooo");
+        }
+        bark();
+        System.out.println();
     }
     @Override
     public void move(String speed) {
         // TODO Auto-generated method stub
         super.move(speed);
-        System.out.println("dogs walk and wag their tail");
+        //System.out.println("dogs walk and wag their tail");
+        if(speed =="slow")
+        {
+            walk();
+            wagtail();
+        }
+        else{
+            run();
+            bark();
+        }
+
     }
     private void bark(){
         System.out.print("woof!");
@@ -39,5 +54,8 @@ public class dog extends animal{
     private void walk(){
         System.out.print("dog walking");
     }
-    
+    public void wagtail()
+    {
+        System.out.println("wagtail");
+    }
 }
