@@ -1,4 +1,4 @@
-public class java_lang_object extends Object {
+public class javalangobject extends Object {
 
     public static void main(String[] args) {
 
