@@ -11,4 +11,10 @@ public class buysellstock {
         }
         return max;
     }
+    public static void main(String[] args)
+    {   int[] arr={1,2,3,4};
+        buysellstock ob1 = new buysellstock();
+        ob1.maxProfit(arr);
+    }
 }
+

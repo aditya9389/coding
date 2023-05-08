@@ -1,10 +1,6 @@
  class Dog {
-    private static String name;     //static variable
+    static String name="aditya";     //static variable
 
-    public Dog (String name)
-    {
-        Dog.name = name;
-    }
     public void printName()
     {
         System.out.println("name=" + name);
@@ -13,9 +9,13 @@
 public class Main {
     public static void main(String[] args)
     {
-        Dog rex = new Dog("rex");
-        Dog fluffy = new Dog("fluffy");
+        Dog rex = new Dog();
+        Dog fluffy = new Dog();
+        fluffy.printName();
+        Dog.name="elder";
+        fluffy.printName();
         rex.printName();
+        Dog.name="land";
         fluffy.printName();
     }
 }
