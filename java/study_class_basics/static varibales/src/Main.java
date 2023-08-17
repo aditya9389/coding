@@ -15,7 +15,7 @@ public class Main {
         Dog.name="elder";
         fluffy.printName();
         rex.printName();
-        Dog.name="land";
+        Dog.name="lan";
         fluffy.printName();
     }
 }
