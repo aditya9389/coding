@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collectionss/CollectionsMethods/CollectionsMethods.iml" filepath="$PROJECT_DIR$/collectionss/CollectionsMethods/CollectionsMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionss/hashset/SetOperationsChallenge/SetOperationsChallenge.iml" filepath="$PROJECT_DIR$/collectionss/hashset/SetOperationsChallenge/SetOperationsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionss/hashset/SetsAndMaps/SetsAndMaps.iml" filepath="$PROJECT_DIR$/collectionss/hashset/SetsAndMaps/SetsAndMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/abstraction/abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionss/hashset/basic/basic.iml" filepath="$PROJECT_DIR$/collectionss/hashset/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coding.iml" filepath="$PROJECT_DIR$/coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparable/comparable.iml" filepath="$PROJECT_DIR$/comparable/comparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum_learning/enum_learning.iml" filepath="$PROJECT_DIR$/enum_learning/enum_learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionss/list/ex1/ex1.iml" filepath="$PROJECT_DIR$/collectionss/list/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functional_interface/functional_interface.iml" filepath="$PROJECT_DIR$/functional_interface/functional_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lamdaexp/lamdaexp.iml" filepath="$PROJECT_DIR$/lamdaexp/lamdaexp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionss/list/list.iml" filepath="$PROJECT_DIR$/collectionss/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionss/pokergame/pokergame.iml" filepath="$PROJECT_DIR$/collectionss/pokergame/pokergame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionss/treeset/treeset.iml" filepath="$PROJECT_DIR$/collectionss/treeset/treeset.iml" />
+    </modules>
+  </component>
+</project>
