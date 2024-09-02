@@ -22,6 +22,7 @@ public class CountingIsFun {
             System.out.println(count);
         }
         scanner.close();
+
     }
 }
 //giving tle :(
